@@ -1,1 +1,0 @@
-# rider_playground
